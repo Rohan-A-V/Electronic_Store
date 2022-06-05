@@ -1,10 +1,13 @@
-Free Download Source Code "Electronics STORE"
+# Electronic store Management System
+ 
+
+## Installation
 
 FIRST Download
 
-1.XAMPP
+1. XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2. "TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
 3. "Electronic Store"
 
@@ -12,7 +15,7 @@ FIRST Download
 
 5. Extract the file and copy "Electronic Store" folder
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6. Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -20,16 +23,16 @@ FIRST Download
 
 6. Import prince.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/Electronic Store
+7. Run the script http://localhost/Electronic Store
 
 "Electronic Store"
 
 **LOGIN DETAILS** 
 
-admin
-user: admin
+***admin*** \
+user: admin\
 pass: admin
 
-user
-user: test
+***user***\
+user: test\
 pass: test
